@@ -1,0 +1,8 @@
+*.d
+*.o
+mandel
+mandelmovie
+*.jpg
+*.mpg
+# keep the one movie that gets submitted for grading
+!mandelmovie.mpg
